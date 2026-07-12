@@ -1,39 +1,60 @@
 # Hi 👋, I'm Harshita
 
-## 🎓 About Me
+## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 💻 Interested in Python, AI & Machine Learning
-- ✈️ NCC Air Wing Cadet
-- 🌱 Currently learning Git, GitHub, DSA and Machine Learning
+🎓 B.Tech Computer Science Engineering Student
+
+💡 Passionate about Artificial Intelligence, Machine Learning, and Python.
+
+✈️ NCC Air Wing Cadet
+
+🌱 I enjoy learning new technologies, solving problems, and building practical projects.
 
 ---
 
-## 💻 Skills
+## 💻 Tech Stack
 
-- Python
+- C
 - C++
+- Python
 - HTML
 - CSS
-- Git
-- GitHub
+- Machine Learning
+
+---
+
+## 📚 Currently Learning
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Data Science
+- Git & GitHub
+- Data Structures & Algorithms (C++)
+- Prompt Engineering
+
+---
+
+## 🎓 Certifications
+
+- NPTEL
+- AWS Academy
+- IBM SkillsBuild
+- Saylor Academy
+- OpenAI Academy *(Currently Learning)*
 
 ---
 
 ## 🚀 Projects
 
-- Delhi Air Quality Prediction System
+- Delhi Air Quality Prediction System (Machine Learning)
 - Weather Analysis Project
-- Python Programs
+- Python & Data Science Projects
 
 ---
 
-## 🎯 Goals
+## 🎯 Career Goal
 
-- Improve my Python and Machine Learning skills
-- Build real-world projects
-- Contribute to Open Source
-- Prepare for technical opportunities
+To build strong skills in Artificial Intelligence, Machine Learning, and Python through continuous learning and hands-on projects while preparing for technical opportunities.
 
 ---
 
@@ -41,4 +62,6 @@
 
 📧 harshita1039@gmail.com
 
-Thanks for visiting my profile! 😊
+---
+
+⭐ Thanks for visiting my GitHub profile!
