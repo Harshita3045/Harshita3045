@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Harshita
 
-<!--
-**Harshita3045/Harshita3045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Computer Science Engineering Student
+- 💻 Interested in Python, AI & Machine Learning
+- ✈️ NCC Air Wing Cadet
+- 🌱 Currently learning Git, GitHub, DSA and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+- Python
+- C++
+- HTML
+- CSS
+- Git
+- GitHub
+
+---
+
+## 🚀 Projects
+
+- Delhi Air Quality Prediction System
+- Weather Analysis Project
+- Python Programs
+
+---
+
+## 🎯 Goals
+
+- Improve my Python and Machine Learning skills
+- Build real-world projects
+- Contribute to Open Source
+- Prepare for technical opportunities
+
+---
+
+## 📫 Contact
+
+📧 harshita1039@gmail.com
+
+Thanks for visiting my profile! 😊
